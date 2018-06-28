@@ -1,0 +1,18 @@
+Question 1: Can you describe your ideal workflow when it comes to front-end development? 
+State what tools you use, any resources you might seek help from and anything 
+else that might help you speed up development time.
+---------------------------------------------------------------------
+My ideal work-flow would consist of the following tools.
+Design: Adobe XD or Figma for mockups and designs.
+VS Code or Brackets for development; more brackets for quick prototypes and VS code for the heavy lifting. 
+My browser will be ready to answer questions from sites like, CSS Tricks, smashing magazine, as well as get notifications from site point, egg heads and scotch.io amongst many other resources.
+I would also have a sandbox like codeine or js fiddle running to test ideas.
+Tech like react / vue / style components / cssnext and jam stack excite me.
+
+
+Question 2: Can you explain a time where you have used both your 
+creative imagination and technical skills to produce a piece of work?
+-----------------------------------------------------------------------
+My current freelance assignment, I produce mockups in photoshop for recruitment campaigns, 
+tailored to the end client, then on approval of the design I build the page(s) 
+using HTML CSS and JS then plug the page components into their Oracle database.
